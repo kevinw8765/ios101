@@ -17,7 +17,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 215.5688622754491%; height: 0;"><iframe src="https://www.loom.com/embed/094042e1500a4331a5f7159cf8639d8b?sid=032613ac-9275-45e7-9bf4-dc77bbb62086" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/094042e1500a4331a5f7159cf8639d8b">
+      <p>IOS101 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/094042e1500a4331a5f7159cf8639d8b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/094042e1500a4331a5f7159cf8639d8b-fc30f9e2f7ddb7fc-full-play.gif">
+    </a>
+</div>
 
 ## App Brainstorming (Step 4)
 
